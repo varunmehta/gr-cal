@@ -1,6 +1,8 @@
 README
 ========
 
+### This is just a mirror repo, main repo is at bitbucket, all changes might not be updated here all the time. Message me if the script is not working.
+
 If you have issues installing the pip's, google it.
 
  * Added support for different date formats
